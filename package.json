@@ -1,0 +1,42 @@
+{
+  "name": "vue-atable",
+  "version": "0.0.1",
+  "description": "Componente para crear una tabla simple que permita ordenamiento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andreslgo/vue-atable.git"
+  },
+  "keywords": [
+    "table",
+    "component",
+    "vuejs"
+  ],
+  "author": "Andres Luque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreslgo/vue-atable/issues"
+  },
+  "homepage": "https://github.com/andreslgo/vue-atable#readme",
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-loader": "7.1.2",
+    "babel-preset-env": "1.6.1",
+    "cross-env": "5.1.1",
+    "css-loader": "0.28.7",
+    "file-loader": "1.1.5",
+    "node-sass": "4.7.2",
+    "sass-loader": "6.0.6",
+    "vue-loader": "13.5.0",
+    "vue-template-compiler": "2.5.9",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.9.7"
+  },
+  "dependencies": {
+    "vue": "2.5.9"
+  }
+}
