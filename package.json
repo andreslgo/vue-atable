@@ -1,6 +1,6 @@
 {
   "name": "vue-atable",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Componente para crear una tabla simple que permita ordenamiento",
   "main": "./src/main.js",
   "scripts": {
